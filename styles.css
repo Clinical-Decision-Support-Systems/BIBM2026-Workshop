@@ -57,7 +57,7 @@ a:hover {
 
 h1 {
   margin: 0;
-  max-width: none;
+  max-width: 60ch;
   /* width: 50%; */
   white-space: nowrap;
   font-size: clamp(1.8rem, 5vw, 4.5rem);
