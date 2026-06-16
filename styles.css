@@ -58,8 +58,9 @@ a:hover {
 h1 {
   margin: 0;
   max-width: none;
+  width: 100%;
   white-space: nowrap;
-  font-size: clamp(1.6rem, 3vw, 2.8rem);
+  font-size: clamp(1.8rem, 5vw, 4.5rem);
   line-height: 1.06;
   letter-spacing: -0.04em;
 }
