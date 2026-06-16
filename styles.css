@@ -55,16 +55,6 @@ h1 {
   letter-spacing: -0.04em;
 }
 
-/* h1 {
-  margin: 0;
-  max-width: 60ch;
-  /* width: 50%; */
-  /* white-space: nowrap; */
-  font-size: clamp(1.8rem, 5vw, 4.5rem);
-  line-height: 1.06;
-  letter-spacing: -0.04em;
-} */
-
 .subtitle {
   margin: 12px 0 0;
   color: var(--muted);
