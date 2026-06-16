@@ -47,10 +47,19 @@ a:hover {
   font-weight: 600;
 }
 
-h1 {
+/* h1 {
   margin: 0;
   max-width: 30ch;
   font-size: clamp(2.1rem, 4.2vw, 3.15rem);
+  line-height: 1.06;
+  letter-spacing: -0.04em;
+} */
+
+h1 {
+  margin: 0;
+  max-width: none;
+  white-space: nowrap;
+  font-size: clamp(1.6rem, 3vw, 2.8rem);
   line-height: 1.06;
   letter-spacing: -0.04em;
 }
